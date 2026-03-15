@@ -1,6 +1,6 @@
 Archive "BigQuery_Standard_SQL.tgz" was processed at this location, pushed to the CDN and completely removed from git.
 
-Date: 2026-02-22 21:36:15 +0000
-SHA1: db1cfa3fe0d20f13db50c0a9a0a0e6780e9bb532
+Date: 2026-03-15 09:39:24 +0000
+SHA1: b2a0451be98993c2fa5cb693de5f3a19a0dbe143
 
 Note: This file is just a txt file, nothing more. It does not act as a placeholder for the original archive. Deleting, moving or renaming this file does nothing.
