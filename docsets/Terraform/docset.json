@@ -1,6 +1,6 @@
 {
     "name": "Terraform",
-    "version": "1.14.6.260308",
+    "version": "1.14.8.260405",
     "archive": "Terraform.tgz",
     "author": {
         "name": "Roberth Kulbin",
@@ -12,6 +12,22 @@
         "terra"
     ],
     "specific_versions": [
+        {
+            "version": "1.14.8.260405",
+            "archive": "versions/1.14.8.260405/Terraform.tgz"
+        },
+        {
+            "version": "1.14.7.260329",
+            "archive": "versions/1.14.7.260329/Terraform.tgz"
+        },
+        {
+            "version": "1.14.7.260322",
+            "archive": "versions/1.14.7.260322/Terraform.tgz"
+        },
+        {
+            "version": "1.14.6.260315",
+            "archive": "versions/1.14.6.260315/Terraform.tgz"
+        },
         {
             "version": "1.14.6.260308",
             "archive": "versions/1.14.6.260308/Terraform.tgz"
