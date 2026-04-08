@@ -1,6 +1,6 @@
 Archive "PHP_de.tgz" was processed at this location, pushed to the CDN and completely removed from git.
 
-Date: 2026-02-22 21:36:27 +0000
-SHA1: c5f024bac9927cd19bb71fed71cccefa419e74af
+Date: 2026-04-08 15:33:47 +0000
+SHA1: e98a42c9a4109c8dc421a4aa7ffa4b44ed17e445
 
 Note: This file is just a txt file, nothing more. It does not act as a placeholder for the original archive. Deleting, moving or renaming this file does nothing.
